@@ -1,8 +1,8 @@
 ## Interface: 120007
 ## Title: Azta'rec's Memory Game
 ## Notes: A movable memory-game frame with 7 slots you fill using raid target icon buttons.
-## Author: You
-## Version: v1.0.0
+## Author: Galaxyham
+## Version: v1.0.1
 
 Core.lua
 UI\MemoryFrame.lua
